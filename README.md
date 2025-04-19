@@ -1,5 +1,5 @@
 # EBAC
-Intrução
+Introdução
 # Olá! 👋
 
 Sou Gabriel Demetrios Lafis, estudiante de Ciência de Dados, explorando o fascinante mundo da análise e modelagem de dados.
