@@ -9,6 +9,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 **[PT-BR](#-sobre-este-repositório) | [English](#-about-this-repository)**
 
@@ -150,30 +151,3 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 </div>
 
 
----
-
-## English
-
-### Overview
-
-EBAC — Escola Britânica de Artes Criativas e Tecnologia - A project built with Python, developed by Gabriel Demetrios Lafis as part of professional portfolio and continuous learning in Data Science and Software Engineering.
-
-### Key Features
-
-This project demonstrates practical application of modern development concepts including clean code architecture, responsive design patterns, and industry-standard best practices. The implementation showcases real-world problem solving with production-ready code quality.
-
-### How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/galafis/EBAC.git
-   ```
-2. Follow the setup instructions in the Portuguese section above.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Developed by [Gabriel Demetrios Lafis](https://github.com/galafis)
